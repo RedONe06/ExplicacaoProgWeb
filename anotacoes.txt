@@ -1,0 +1,43 @@
+                --------
+                H T M L
+                --------
+html é uma liguagem de
+marcação e não de programação
+
+Gerar arquivo --------------------------
+comando ! em html gera o doctype e a base
+index é o main do java e é .html
+live server é uma extensão que gera um servidor de teste
+
+para mostrar textos na página da web pode ser só largado o código no cmd que ele 
+mostra no servidor
+
+semantica ----------------------
+<header> = cabeçalho
+<nav> = grupo de links de navegação
+<main> = aciona os robos do google para achar o código(conteúdo principal do site)
+    <section> seção dentro de um documento
+    <article> quando precisamos declarar algo fora da main(gera um container)
+    <strong> negrito
+    <aside> conteudo de apoio ao conteudo principal
+    <figure> usado parar imagem
+<footer> = rodapé
+
+<!-- = comentário
+<hr> = linha horizontal
+
+atalhos --------------------------
+alt+shift+f = identa o site
+./ navega entre pastas
+
+            -----
+            C S S 
+            -----
+
+o *{} significa que tem mais pressets prontos.
+margin: 10 px (cima) 5px (direita) 10px(baixo) 5px(esquerda)
+margin: 10 px (cima e baixo) 5 px (esquerda e direita)
+margin> 10px (baixo e cima) auto (centraliza)
+medida vh é a altura máxima de trabalho tag
+comentario = /*
+para colocar uma fonte, deve ser gerado o link maior para colocar na meta e o comando de css aonde quer mudar a fonte
